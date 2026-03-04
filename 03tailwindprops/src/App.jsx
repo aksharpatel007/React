@@ -2,12 +2,12 @@ import './App.css'
 import Card from "./components/Card.jsx"
 
 function App() {
-  const [count, setCount] = useState(0)
-  let myObj = {
-    username: "Akshar",
-    age: 21
-  }
-  let newArr = [1, 2, 3]
+  // const [count, setCount] = useState(0)
+  // let myObj = {
+  //   username: "Akshar",
+  //   age: 21
+  // }
+  // let newArr = [1, 2, 3]
 
   return (
     <>
